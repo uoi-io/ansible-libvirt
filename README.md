@@ -1,4 +1,7 @@
 # Ansible libvirt (OpenStack ready)
+
+[![Build Status](https://travis-ci.org/uoi-io/ansible-libvirt.svg?branch=master)](https://travis-ci.org/uoi-io/ansible-libvirt)[![Ansible Galaxy](https://img.shields.io/badge/galaxy-uoi.libvirt-green.svg?style=flat)](https://galaxy.ansible.com/uoi-io/libvirt/)
+
 Install and configure libvirt service on many distributions.
 
 Supported distributions:
